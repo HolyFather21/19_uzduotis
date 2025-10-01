@@ -1,1 +1,2 @@
-# 19_uzduotis
+# Bandom-koduoti
+19 Namų užduotis.
